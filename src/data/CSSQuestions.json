@@ -1,0 +1,138 @@
+[
+    {
+      "question": "What does CSS stand for?",
+      "options": [
+        { "text": "Cascading Style Sheets", "isCorrect": true },
+        { "text": "Creative Style System", "isCorrect": false },
+        { "text": "Colorful Style Sheets", "isCorrect": false },
+        { "text": "Computer Style Sheets", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which CSS property controls the text size?",
+      "options": [
+        { "text": "font-size", "isCorrect": true },
+        { "text": "text-size", "isCorrect": false },
+        { "text": "text-style", "isCorrect": false },
+        { "text": "font-style", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which property is used to change the background color?",
+      "options": [
+        { "text": "background-color", "isCorrect": true },
+        { "text": "color", "isCorrect": false },
+        { "text": "bgcolor", "isCorrect": false },
+        { "text": "background-image", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which CSS property is used to change the text color of an element?",
+      "options": [
+        { "text": "color", "isCorrect": true },
+        { "text": "text-color", "isCorrect": false },
+        { "text": "font-color", "isCorrect": false },
+        { "text": "bg-color", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How do you make the text bold in CSS?",
+      "options": [
+        { "text": "font-weight: bold;", "isCorrect": true },
+        { "text": "font-style: bold;", "isCorrect": false },
+        { "text": "text-weight: bold;", "isCorrect": false },
+        { "text": "bold: true;", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How do you center-align text in CSS?",
+      "options": [
+        { "text": "text-align: center;", "isCorrect": true },
+        { "text": "align: center;", "isCorrect": false },
+        { "text": "horizontal-align: center;", "isCorrect": false },
+        { "text": "font-align: center;", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which property is used to change the font of an element?",
+      "options": [
+        { "text": "font-family", "isCorrect": true },
+        { "text": "font-style", "isCorrect": false },
+        { "text": "font-size", "isCorrect": false },
+        { "text": "font-weight", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does the z-index property do?",
+      "options": [
+        { "text": "Specifies the stack order of elements", "isCorrect": true },
+        { "text": "Changes the transparency of an element", "isCorrect": false },
+        { "text": "Defines the dimensions of an element", "isCorrect": false },
+        { "text": "Specifies the font size", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which property is used to create space between an element’s border and content?",
+      "options": [
+        { "text": "padding", "isCorrect": true },
+        { "text": "margin", "isCorrect": false },
+        { "text": "border", "isCorrect": false },
+        { "text": "spacing", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How do you make a list without bullets in CSS?",
+      "options": [
+        { "text": "list-style-type: none;", "isCorrect": true },
+        { "text": "text-decoration: none;", "isCorrect": false },
+        { "text": "list-type: no-bullets;", "isCorrect": false },
+        { "text": "list: no-bullets;", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which CSS property is used to make the text italic?",
+      "options": [
+        { "text": "font-style: italic;", "isCorrect": true },
+        { "text": "font-weight: italic;", "isCorrect": false },
+        { "text": "text-style: italic;", "isCorrect": false },
+        { "text": "font-variant: italic;", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the default value of the position property in CSS?",
+      "options": [
+        { "text": "static", "isCorrect": true },
+        { "text": "relative", "isCorrect": false },
+        { "text": "absolute", "isCorrect": false },
+        { "text": "fixed", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How do you add a shadow to an element in CSS?",
+      "options": [
+        { "text": "box-shadow", "isCorrect": true },
+        { "text": "shadow", "isCorrect": false },
+        { "text": "border-shadow", "isCorrect": false },
+        { "text": "outline-shadow", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which property controls the order of flexible items in a flex container?",
+      "options": [
+        { "text": "order", "isCorrect": true },
+        { "text": "z-index", "isCorrect": false },
+        { "text": "flex-order", "isCorrect": false },
+        { "text": "align-order", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which CSS property is used to specify the transparency of an element?",
+      "options": [
+        { "text": "opacity", "isCorrect": true },
+        { "text": "visibility", "isCorrect": false },
+        { "text": "filter", "isCorrect": false },
+        { "text": "alpha", "isCorrect": false }
+      ]
+    }
+  ]
+  

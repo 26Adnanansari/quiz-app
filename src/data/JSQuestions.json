@@ -1,0 +1,138 @@
+[
+    {
+      "question": "Inside which HTML element do we put the JavaScript?",
+      "options": [
+        { "text": "<script>", "isCorrect": true },
+        { "text": "<js>", "isCorrect": false },
+        { "text": "<javascript>", "isCorrect": false },
+        { "text": "<scripting>", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the correct syntax for referring to an external script?",
+      "options": [
+        { "text": "<script src=\"xxx.js\">", "isCorrect": true },
+        { "text": "<script href=\"xxx.js\">", "isCorrect": false },
+        { "text": "<script name=\"xxx.js\">", "isCorrect": false },
+        { "text": "<script file=\"xxx.js\">", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How do you write \"Hello World\" in an alert box?",
+      "options": [
+        { "text": "alert(\"Hello World\");", "isCorrect": true },
+        { "text": "msg(\"Hello World\");", "isCorrect": false },
+        { "text": "prompt(\"Hello World\");", "isCorrect": false },
+        { "text": "alertBox(\"Hello World\");", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How do you create a function in JavaScript?",
+      "options": [
+        { "text": "function myFunction()", "isCorrect": true },
+        { "text": "function:myFunction()", "isCorrect": false },
+        { "text": "function = myFunction()", "isCorrect": false },
+        { "text": "def myFunction()", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How do you call a function named \"myFunction\"?",
+      "options": [
+        { "text": "myFunction()", "isCorrect": true },
+        { "text": "call myFunction()", "isCorrect": false },
+        { "text": "call function myFunction()", "isCorrect": false },
+        { "text": "execute myFunction()", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How can you add a comment in JavaScript?",
+      "options": [
+        { "text": "// This is a comment", "isCorrect": true },
+        { "text": "<!-- This is a comment -->", "isCorrect": false },
+        { "text": "** This is a comment", "isCorrect": false },
+        { "text": "# This is a comment", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the correct way to write a JavaScript array?",
+      "options": [
+        { "text": "var colors = [\"red\", \"green\", \"blue\"];", "isCorrect": true },
+        { "text": "var colors = (1:\"red\", 2:\"green\", 3:\"blue\");", "isCorrect": false },
+        { "text": "var colors = \"red\", \"green\", \"blue\";", "isCorrect": false },
+        { "text": "var colors = {red, green, blue};", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How do you round the number 7.25 to the nearest integer?",
+      "options": [
+        { "text": "Math.round(7.25)", "isCorrect": true },
+        { "text": "Math.rnd(7.25)", "isCorrect": false },
+        { "text": "round(7.25)", "isCorrect": false },
+        { "text": "rnd(7.25)", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which event occurs when the user clicks on an HTML element?",
+      "options": [
+        { "text": "onclick", "isCorrect": true },
+        { "text": "onchange", "isCorrect": false },
+        { "text": "onmouseclick", "isCorrect": false },
+        { "text": "onhover", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How do you declare a JavaScript variable?",
+      "options": [
+        { "text": "var x;", "isCorrect": true },
+        { "text": "variable x;", "isCorrect": false },
+        { "text": "v x;", "isCorrect": false },
+        { "text": "x variable;", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which operator is used to assign a value to a variable?",
+      "options": [
+        { "text": "=", "isCorrect": true },
+        { "text": "==", "isCorrect": false },
+        { "text": "===", "isCorrect": false },
+        { "text": "=>", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What will the following code return: Boolean(10 > 9)?",
+      "options": [
+        { "text": "true", "isCorrect": true },
+        { "text": "false", "isCorrect": false },
+        { "text": "NaN", "isCorrect": false },
+        { "text": "undefined", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the correct syntax for a \"for\" loop?",
+      "options": [
+        { "text": "for (i = 0; i < 5; i++)", "isCorrect": true },
+        { "text": "for (i <= 5; i++)", "isCorrect": false },
+        { "text": "for i = 1 to 5", "isCorrect": false },
+        { "text": "for (i = 0; i <= 5)", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which method can be used to join two or more arrays?",
+      "options": [
+        { "text": "concat()", "isCorrect": true },
+        { "text": "merge()", "isCorrect": false },
+        { "text": "join()", "isCorrect": false },
+        { "text": "append()", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How do you check if two variables are equal in value and type?",
+      "options": [
+        { "text": "===", "isCorrect": true },
+        { "text": "==", "isCorrect": false },
+        { "text": "=", "isCorrect": false },
+        { "text": "equals()", "isCorrect": false }
+      ]
+    }
+  ]
+  

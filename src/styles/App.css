@@ -1,0 +1,80 @@
+/* Global Styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #2c2c2c; /* Dark Gray Background */
+    color: #ffffff; /* Light Text for Readability */
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* App Container */
+  .app-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+    background-color: #2c2c2c; /* Dark Gray */
+    color: #ffffff; /* Light Text */
+  }
+  
+  /* General Button Styles */
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #ffffff; /* Light Text on Buttons */
+    background-color: #28a745; /* Default Green */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  button:hover {
+    background-color: #218838; /* Darker Green on Hover */
+  }
+  
+  button:active {
+    background-color: #007bff; /* Blue on Press */
+    transform: scale(0.98); /* Scale Down */
+  }
+  
+  /* Inputs and Selects */
+  input, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  input:focus, select:focus {
+    outline: none;
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+  }
+  
+  /* Centered Card Style */
+  .card {
+    background: #ffffff;
+    color: #2c2c2c;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    width: 90%;
+    margin: auto;
+  }
+  

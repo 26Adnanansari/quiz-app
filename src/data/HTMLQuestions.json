@@ -1,0 +1,138 @@
+[
+    {
+      "question": "What does HTML stand for?",
+      "options": [
+        { "text": "Hyper Text Markup Language", "isCorrect": true },
+        { "text": "Home Tool Markup Language", "isCorrect": false },
+        { "text": "Hyperlinks and Text Markup Language", "isCorrect": false },
+        { "text": "None of these", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the correct HTML element for inserting a line break?",
+      "options": [
+        { "text": "<br>", "isCorrect": true },
+        { "text": "<break>", "isCorrect": false },
+        { "text": "<lb>", "isCorrect": false },
+        { "text": "<line>", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Choose the correct HTML element for the largest heading:",
+      "options": [
+        { "text": "<h1>", "isCorrect": true },
+        { "text": "<h6>", "isCorrect": false },
+        { "text": "<heading>", "isCorrect": false },
+        { "text": "<head>", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which character is used to indicate an end tag?",
+      "options": [
+        { "text": "/", "isCorrect": true },
+        { "text": "<", "isCorrect": false },
+        { "text": "*", "isCorrect": false },
+        { "text": "^", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the correct HTML element for inserting a background image?",
+      "options": [
+        { "text": "<body style=\"background-image: url(img.jpg)\">", "isCorrect": true },
+        { "text": "<background>", "isCorrect": false },
+        { "text": "<bgimage>", "isCorrect": false },
+        { "text": "<img src=\"background.jpg\">", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which element is used to create a numbered list?",
+      "options": [
+        { "text": "<ol>", "isCorrect": true },
+        { "text": "<ul>", "isCorrect": false },
+        { "text": "<li>", "isCorrect": false },
+        { "text": "<list>", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of the <title> tag?",
+      "options": [
+        { "text": "Defines the document title in the browser", "isCorrect": true },
+        { "text": "Adds a title to a paragraph", "isCorrect": false },
+        { "text": "Defines a section heading", "isCorrect": false },
+        { "text": "Specifies metadata for the page", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which HTML element is used to define an unordered list?",
+      "options": [
+        { "text": "<ul>", "isCorrect": true },
+        { "text": "<ol>", "isCorrect": false },
+        { "text": "<li>", "isCorrect": false },
+        { "text": "<list>", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "How can you make text bold in HTML?",
+      "options": [
+        { "text": "<b>", "isCorrect": true },
+        { "text": "<strong>", "isCorrect": true },
+        { "text": "<bold>", "isCorrect": false },
+        { "text": "<em>", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which HTML attribute specifies an alternative text for an image?",
+      "options": [
+        { "text": "alt", "isCorrect": true },
+        { "text": "title", "isCorrect": false },
+        { "text": "src", "isCorrect": false },
+        { "text": "text", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of the <meta> tag?",
+      "options": [
+        { "text": "Provides metadata about the HTML document", "isCorrect": true },
+        { "text": "Defines a section in the document", "isCorrect": false },
+        { "text": "Creates a hyperlink", "isCorrect": false },
+        { "text": "Links an external stylesheet", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which element is used to create a hyperlink?",
+      "options": [
+        { "text": "<a>", "isCorrect": true },
+        { "text": "<link>", "isCorrect": false },
+        { "text": "<href>", "isCorrect": false },
+        { "text": "<url>", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What does the <iframe> tag do?",
+      "options": [
+        { "text": "Embeds another HTML document within the current document", "isCorrect": true },
+        { "text": "Creates a frame for images", "isCorrect": false },
+        { "text": "Defines a border around the page", "isCorrect": false },
+        { "text": "Specifies inline styles", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the purpose of the <form> tag in HTML?",
+      "options": [
+        { "text": "To collect user input", "isCorrect": true },
+        { "text": "To link an external stylesheet", "isCorrect": false },
+        { "text": "To display images", "isCorrect": false },
+        { "text": "To create a table", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which HTML tag is used to display a horizontal line?",
+      "options": [
+        { "text": "<hr>", "isCorrect": true },
+        { "text": "<line>", "isCorrect": false },
+        { "text": "<br>", "isCorrect": false },
+        { "text": "<border>", "isCorrect": false }
+      ]
+    }
+  ]
+  
